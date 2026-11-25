@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/fillintheblanks">
+  <a href="https://github.com/fillintheblanks1">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
       <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
