@@ -1,5 +1,5 @@
 import html
-USER = "YOUR_GITHUB_USERNAME"; LEETCODE = "YOUR_LEETCODE_USERNAME"
+USER = "fillintheblanks1"; LEETCODE = "fillintheblanks1"
 RAMP = "@%#*+=-:. "
 INV = {c: RAMP[len(RAMP)-1-i] for i, c in enumerate(RAMP)}
 
@@ -21,7 +21,7 @@ art_h = lh * len(art); X0 = 28; IX = int(X0 + ART_W + 32)
 
 rows = [("OS","GitHub / Arch-ish"),("Host","Piyush"),("Kernel","learning"),("Shell","mysh (C++)"),("Uptime","Building & Learning")]
 work = [("Project",f"github.com/{USER}/mysh"),("Learning","App Development"),("Stack","C, C++, Bash, Python, Swift, Figma"),("Trivia","I love the classics")]
-contact = [("Email","piyush0x1904@gmail.com"),("LinkedIn","linkedin.com/in/peeyoushhh"),("LeetCode",f"leetcode.com/u/{LEETCODE}"),("GitHub",f"github.com/{USER}")]
+contact = [("Email","piyush0x1904@gmail.com"),("LinkedIn","linkedin.com/in/peeyoushhhh"),("LeetCode",f"leetcode.com/u/fillintheblanks1"),("GitHub",f"github.com/fillintheblanks1")]
 
 def build(t):
     info = []; y = 44
